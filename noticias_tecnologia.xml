@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
     <channel>
-        <title>Noticia Xalaka móvil</title>
-        <link>https://www.xatakamovil.com/aplicaciones/meta-quiere-que-paguemos-nuestras-facturas-whatsapp-cada-dia-cerca-wechat-china</link>
+        <title>Noticias de Tecnología 2025</title>
+        <link>https://www.ejemplo.com/rss</link>
         <description>Las noticias más relevantes del mundo tecnológico.</description>
         <language>es</language>
         <pubDate>Mon, 03 Feb 2025 09:30:00 +0000</pubDate>
@@ -25,5 +25,15 @@
             <guid>https://www.ejemplo.com/startups-2025</guid>
             <category>Deporte</category>
         </item>
+
+        <item>
+            <title>Noticia Xalaka móvil</title>
+            <link>https://www.xatakamovil.com/aplicaciones/meta-quiere-que-paguemos-nuestras-facturas-whatsapp-cada-dia-cerca-wechat-china</link>
+            <description>Las noticias más relevantes del mundo tecnológico.</description>
+            <pubDate>Mon, 27 Jan 2025 10:00:00 +0000</pubDate>
+            <guid>https://www.ejemplo.com/chip-ia</guid>
+            <category>Actualidad</category>
+        </item>
+        
     </channel>
 </rss>
