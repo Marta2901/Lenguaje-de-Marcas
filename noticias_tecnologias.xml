@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+        <title>Noticias de Tecnología 2025</title>
+        <link>https://www.ejemplo.com/rss</link>
+        <description>Las noticias más relevantes del mundo tecnológico.</description>
+        <language>es</language>
+        <pubDate>Mon, 03 Feb 2025 09:00:00 +0000</pubDate>
+        <lastBuildDate>Mon, 03 Feb 2025 09:00:00 +0000</lastBuildDate>
+ 
+        <item>
+            <title>Lanzamiento de un nuevo chip para IA</title>
+            <link>https://www.ejemplo.com/chip-ia</link>
+            <description>El nuevo chip promete revolucionar las capacidades de procesamiento en inteligencia artificial.</description>
+            <pubDate>Mon, 03 Feb 2025 10:00:00 +0000</pubDate>
+            <guid>https://www.ejemplo.com/chip-ia</guid>
+            <category>Tecnología</category>
+
+        </item>
+ 
+        <item>
+            <title>Las startups más innovadoras de 2025</title>
+            <link>https://www.ejemplo.com/startups-2025</link>
+            <description>Un vistazo a las empresas emergentes que están transformando la industria tecnológica.</description>
+            <pubDate>Mon, 03 Feb 2025 08:30:00 +0000</pubDate>
+            <guid>https://www.ejemplo.com/startups-2025</guid>
+            <category>Emprendimiento</category>
+        </item>
+
+        <item>
+            <title>Ipohne SE 4</title>
+            <link>https://www.xatakamovil.com/nuevo/nuevo-iphone-se-4-informacion</link>
+            <description>Toda la información del próximo iPhone más barato de Apple .</description>
+            <pubDate>Thu, 06 Feb 2025 08:30:00 +0000</pubDate>
+            <guid>https://www.xatakamovil.com/nuevo/nuevo-iphone-se-4-informacion</guid>
+            <category>Tecnología</category>
+            <author>Xataka Móvil</author>
+        </item>
+
+        <item>
+            <title>Cable Nomad perfecto para Apple</title>
+            <link>https://www.xatakamovil.com/conectividad/nunca-habiamos-visto-cable-como-este-nuevo-nomad-perfecto-tienes-dispositivos-apple</link>
+            <description>Un vistazo a las empresas emergentes que están transformando la industria tecnológica.</description>
+            <pubDate>Mon, 03 Feb 2025 10:30:00 +0000</pubDate>
+            <guid>https://www.xatakamovil.com/conectividad/nunca-habiamos-visto-cable-como-este-nuevo-nomad-perfecto-tienes-dispositivos-apple</guid>
+            <category>Tecnología</category>
+            <author>Xataka Móvil</author>
+        </item>
+           
+        <item>
+             <title>Las startups más innovadoras de 2025</title>
+            <link>https://www.xatakamovil.com/aplicaciones/tienda-epic-games-da-bombazo-comienza-su-programa-juegos-gratis-estrena-casi-20-titulos-nuevos</link>
+            <description>Un vistazo a las empresas emergentes que están transformando la industria tecnológica.</description>
+            <pubDate>Mon, 03 Feb 2025 08:30:00 +0000</pubDate>
+            <guid>https://www.xatakamovil.com/aplicaciones/tienda-epic-games-da-bombazo-comienza-su-programa-juegos-gratis-estrena-casi-20-titulos-nuevos</guid>
+            <category>Tecnología</category>
+            <author>Xataka Móvil</author>
+        </item>
+    </channel>
+</rss>
